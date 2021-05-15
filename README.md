@@ -2,10 +2,7 @@
 
 ***
 ***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** TribilinYT, dolla-react-responsive-frontpage-devcluna, @DevCluna, jobs.cluna@gmail.com, Dolla FrontPage, Responsive single page for a Banking business.
--->
+
 
 
 
@@ -29,23 +26,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna">
+  <a href="ps://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna">
     <img src="/src/images/icon.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">dolla Single-Page</h3>
+  <h3 align="center">Volanti Single-Page</h3>
 
   <p align="center">
-    Responsive single page for a Banking business.
+    Responsive single page for Low cost Airplanes transport Services
     <br />
-    <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://609b9c14bd8a74d82f80211c--competent-franklin-7f8158.netlify.app/">View Demo</a>
+    <a href="https://reverent-swanson-845540.netlify.app//">View Demo</a>
     ·
-    <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/issues">Report Bug</a>
+    <a href="https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna/issues">Report Bug</a>
     ·
-    <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/issues">Request Feature</a>
+    <a href="https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna/issues">Request Feature</a>
     .
     <a href="https://github.com/briancodex">Credits Owner</a>
   </p>
@@ -84,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![dolla Home-Page][product-screenshot]](https://609b9c14bd8a74d82f80211c--competent-franklin-7f8158.netlify.app/)
+[![dolla Home-Page][product-screenshot]](https://reverent-swanson-845540.netlify.app/)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -122,7 +119,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna
+   git clone https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna
    ```
 2. Install YARN packages
    ```sh
@@ -134,7 +131,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna) for a list of proposed features (and known issues).
 
 
 
@@ -163,7 +160,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Cristhian Luna - [@DevCluna](https://twitter.com/DevCLuna) - jobs.cluna@gmail.com
 
-Project Link: [https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna](https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna)
+Project Link: [https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna](https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna)
 
 
 
@@ -184,24 +181,22 @@ Project Link: [https://github.com/TribilinYT/dolla-react-responsive-frontpage-de
 
 
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/TribilinYT/dolla-react-responsive-frontpage-devcluna.svg?style=for-the-badge
-[contributors-url]: https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/graphs/contributors
+[contributors-url]: https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/TribilinYT/dolla-react-responsive-frontpage-devcluna.svg?style=for-the-badge
-[forks-url]: https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/network/members
+[forks-shield]: https://img.shields.io/github/forks/TribilinYT/volanti-react-responsive-frontpage-devcluna.svg?style=for-the-badge
+[forks-url]: https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/TribilinYT/dolla-react-responsive-frontpage-devcluna.svg?style=for-the-badge
-[stars-url]: https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/stargazers
+[stars-shield]: https://img.shields.io/github/stars/TribilinYT/volanti-react-responsive-frontpage-devcluna.svg?style=for-the-badge
+[stars-url]: https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/TribilinYT/dolla-react-responsive-frontpage-devcluna.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/TribilinYT/volanti-react-responsive-frontpage-devcluna.svg?style=for-the-badge
 [issues-url]: https://github.com/tribilinYT/dolla-react-responsive-frontpage-devcluna/issues
 
-[license-shield]: https://img.shields.io/github/license/TribilinYT/dolla-react-responsive-frontpage-devcluna.svg?style=for-the-badge
-[license-url]: https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/TribilinYT/volanti-react-responsive-frontpage-devcluna.svg?style=for-the-badge
+[license-url]: https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/cluna1997/
