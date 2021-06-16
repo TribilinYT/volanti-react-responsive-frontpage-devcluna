@@ -38,7 +38,7 @@
     <a href="https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://reverent-swanson-845540.netlify.app//">View Demo</a>
+    <a href="https://reverent-swanson-845540.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna/issues">Report Bug</a>
     ·
