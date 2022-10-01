@@ -199,7 +199,7 @@ Project Link: [https://github.com/TribilinYT/volanti-react-responsive-frontpage-
 [license-url]: https://github.com/TribilinYT/volanti-react-responsive-frontpage-devcluna/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/cluna1997/
+[linkedin-url]: https://www.linkedin.com/in/devcluna/
 
 [product-screenshot]: src/images/homepage.png
 
